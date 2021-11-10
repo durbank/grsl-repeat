@@ -21,4 +21,3 @@ dependencies:
   - openpyxl
   - selenium
   - xarray-spatial
-prefix: /home/durbank/miniconda3/envs/wais-central
